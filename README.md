@@ -23,17 +23,6 @@ ATM-Simulator/
 ├── README.md // This file  
 └── .gitignore // Optional Git ignore file  
 
-
-## 🚀 How to Run
-
-1. **Clone the repository** or copy the source files into a Java project directory.
-
-2. **Compile the Java files**:
-
-```bash
-javac ATM.java
-
-
 ## Notes
 The program uses a dummy recipient account for fund transfers.
 
